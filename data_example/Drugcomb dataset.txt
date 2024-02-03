@@ -1,0 +1,12 @@
+DrugComb update: a more comprehensive drug sensitivity data repository and analysis portal
+Summary_data_v1.5 : https://drugcomb.org/download/
+
+References
+[1] Zagidullin, B., Aldahdooh, J., Zheng, S., Wang, W., Wang, Y., Saad, J., Malyutina, A., Jafari, M., Tanoli, M., Pessia, A. and Tang. J. DrugComb: an integrative cancer drug combination data portal. Nucleic Acids Research, gkz337, https://doi.org/10.1093/nar/gkz337
+[2] Malyutina, A., Majumder, M.M., Wang, W., Pessia, A., Heckman, C. and Tang, J. Drug combination sensitivity scoring facilitates the discovery of synergistic and efficacious drug combinations in cancer. Under Review.
+[3] Wang, W., Malyutina, A., Pessia, A., Heckman, C. and Tang, J. Improving the consistency of functional genomics screens using molecular features - a multi-omics, pan-cancer study. Under Review.
+[4] Tang, J. (2017) Informatics approaches for predicting, understanding and testing cancer drug combinations. Methods Mol. Biol. 1636:485-506. Book chapter in Kinase Signaling Networks, Springer
+[5] Ianevski, A., He, L., Aittokallio, T. and Tang, J. (2017) SynergyFinder: a web application for analyzing drug combination dose-response matrix data. Bioinformatics. 33, 2413-2415
+[6] He, L., Kulesskiy, E., Saarela, J., Turunen, L., Wennerberg, K., Aittokallio, T. and Tang, J. (2017) Methods for high-throughput drug combination screening and synergy scoring. Methods Mol. Biol. 1:711:351-398. Book chapter in Cancer Systems Biology, Springer.
+[7] Yadav, B., Wenerberg, K., Aittokallio, T. and Tang, J. (2015) Searching for drug synergy in complex dose-response landscapes using an interaction potency model. Comput. Struct. Biotechnol. J. 13, 504-513
+[8] Tang, J., Wennerberg, K. and Aittokallio, T. (2015) What is synergy? The Saariselkä agreement revisited. Front. Pharmacol. 6, 181
